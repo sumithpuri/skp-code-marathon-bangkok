@@ -15,10 +15,10 @@ https://github.com/sumithpuri
 	
 |Project Codename|Thimphu|
 |--|--|
-| Blog Post URL | http://www.techilashots.com/2015/05/java-se-6-whats-new-part-0204.html |
-|Blog Short URL	|https://goo.gl/iUt46h|
-|Package Prefix|me.sumithpuri.github.thimphu|
-|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-thimphu|
+| Blog Post URL | http://www.techilashots.com/2015/05/java-se-7-whats-new-part-0304.html |
+|Blog Short URL	|https://goo.gl/hFXXuw |
+|Package Prefix|me.sumithpuri.github.bangkok |
+|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-bangkok |
 |Contact E-Mail  |code@sumithpuri.me|
 |Contact Number|+91 9591497974 (WhatsApp, Viber)|
 
