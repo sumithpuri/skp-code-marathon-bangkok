@@ -1,6 +1,3 @@
-/**
- * 
- */
 package me.sumithpuri.github.bangkok.diamondsyntax;
 
 import java.util.ArrayList;
